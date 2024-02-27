@@ -1,2 +1,3 @@
-public class Transport {
+abstract class Transport {
+
 }
