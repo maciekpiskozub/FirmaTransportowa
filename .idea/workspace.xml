@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="728d180a-258a-48dc-ba31-9cb54a714683" name="Changes" comment="da">
-      <change beforePath="$PROJECT_DIR$/src/Ciezarowka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ciezarowka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kontener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kontener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pociag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pociag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Statek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Statek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Towar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Towar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport.java" afterDir="false" />
-    </list>
+    <list default="true" id="728d180a-258a-48dc-ba31-9cb54a714683" name="Changes" comment="pakiecik sb zepsujesz" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709040646707</updated>
-      <workItem from="1709040647755" duration="1125000" />
+      <workItem from="1709040647755" duration="1649000" />
     </task>
     <task id="LOCAL-00001" summary="da">
       <option name="closed" value="true" />
@@ -83,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709041360090</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pakiecik sb zepsujesz">
+      <option name="closed" value="true" />
+      <created>1709042308943</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709042308943</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="da" />
-    <option name="LAST_COMMIT_MESSAGE" value="da" />
+    <MESSAGE value="pakiecik sb zepsujesz" />
+    <option name="LAST_COMMIT_MESSAGE" value="pakiecik sb zepsujesz" />
   </component>
 </project>
